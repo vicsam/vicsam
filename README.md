@@ -8,12 +8,12 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=vicsam&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">Hey there, I am Victor Samuel Oyede <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hello, I am Victor Oyede <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 
 ### 👨‍💻 &nbsp;About Me :
 
- Welcome to my GitHub profile! I'm a passionate Mobile App Developer(Flutter) and a Cloud DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. 
+ Welcome to my GitHub profile! I'm a passionate Mobile App Developer(Flutter), Cloud DevOps Engineer and Technical Support Specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. I build cross-platform apps, automate infrastructure, and provide exceptional technical support to optimize systems and enhance user experiences.. 
 
 - ✍️ I enjoy sharing my knowledge through technical blogs, where I write about my experiences, tutorials, and best practices.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
